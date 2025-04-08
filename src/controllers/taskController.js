@@ -1,6 +1,6 @@
 const taskModel = require("../models/taskModel");
 
-//Obtener todas las tareas
+//Obtener todas las tareas para la base
 
 const getTasks = async (req, res) => {
     try{
